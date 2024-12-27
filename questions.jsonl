@@ -1,0 +1,20 @@
+{"chapter": "Simplification of Boolean Functions", "question": "Simplify the Boolean function (A,B,C,D) = Σ(0,3,7,8,9,11) + d(2,10,14,15) using K-map"}
+{"chapter": "Simplification of Boolean Functions", "question": "What is don't care condition? Explain its significance in K-map simplification"}
+{"chapter": "Combinational Logic", "question": "What is a binary parallel adder? Design and explain its operation"}
+{"chapter": "Combinational Logic", "question": "Design a circuit that converts decimal digits from BCD to Excess-3 code"}
+{"chapter": "Combinational Logic", "question": "What is a decoder circuit? Design a 4-to-16 line decoder using 2-to-4 decoders"}
+{"chapter": "Sequential Logic", "question": "Compare flip-flop and latch. What are their key differences?"}
+{"chapter": "Sequential Logic", "question": "Explain the working of Master-Slave flip-flop with truth table and diagrams"}
+{"chapter": "Sequential Logic", "question": "What is a clocked RS flip-flop? Explain its operation with truth table"}
+{"chapter": "Sequential Logic", "question": "What is state reduction in sequential circuits? Explain with an example"}
+{"chapter": "Registers, Counters, and Memory Unit", "question": "What are shift registers? Explain SISO (Serial In Serial Out) operation"}
+{"chapter": "Registers, Counters, and Memory Unit", "question": "Design a 3-bit synchronous up counter using T flip-flop"}
+{"chapter": "Registers, Counters, and Memory Unit", "question": "Explain the operation of a binary ripple counter using JK flip-flops"}
+{"chapter": "Registers, Counters, and Memory Unit", "question": "What is parallel-in serial-out (PISO) shift register? Explain with diagram"}
+{"chapter": "Processor Logic Design", "question": "What is an ALU? Explain its arithmetic and logical operations with examples"}
+{"chapter": "Processor Logic Design", "question": "Design a 4-bit arithmetic circuit that performs eight different operations"}
+{"chapter": "Processor Logic Design", "question": "What is an accumulator register? Explain its role in processor operations"}
+{"chapter": "Control Logic Design", "question": "Explain bus organization in digital systems. What are its key components?"}
+{"chapter": "Control Logic Design", "question": "What is the difference between synchronous and asynchronous counters?"}
+{"chapter": "Digital Integrated Circuits", "question": "What is PLA (Programmable Logic Array)? Explain its architecture"}
+{"chapter": "Digital Integrated Circuits", "question": "Explain the concept of bus organization in integrated circuits"}

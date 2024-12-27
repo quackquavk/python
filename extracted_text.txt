@@ -1,0 +1,109 @@
+| POKHARA UNIVERSITY
+
+Level: Bachelor Semester —Fall Year 12015
+
+Programme: BCA Full Marks: 100
+
+Course : Digital’ Logic Systems Pass Marks: 45
+Time : Shrs.
+
+Candidates are required to give their answers in their own words as far
+as practicable.
+
+The figures in the margin indicate full marks.
+Attempt all he questions.
+
+a) Perform the operation as indicated:
+i, (1010)_gray=(....)_2
+ii.
+ii, (225. 225)_ 10=(... ay 2
+
+iv.  (237.5)_8=(....)_16
+
+v.  (3250-72532)_10 using 10's complement
+
+b) Show the universality of NAND and NOR gate.
+
+a) Differentiate between analog system and digital system,
+
+b) What is karnansh map ?Simplify the Boolean function by K-map and
+implement by using only NOR gates
+F(w,x,y,2) = 2(0,1,2,4,5,6,8,9, 10,12,14)
+a) Define combination logic circuit. Design a Full saturator circuit using
+two half adders and a not gat.
+b) Design 8 to I multiplexer. Why mux is called data selector?
+
+a) Design’a combinational circuit that accepts 3- bit binary number and
+‘produces an output binary number equal to two times of the input
+number.
+
+b) Describe the working principle of Master-slave JK flip flop.
+
+OR
+Explain JK flip flop with its truth table and characteristics equation,
+
+What do you mean by toggling of a JK flip flop?
+
+a) Design a sequential circuit corresponding to the given state diagram
+using JK flip flo,
+
+1
+
+
+© POKHARA UNIVERSITY
+
+vel: Bachelor Semester —Fall Year 5 2014
+
+=. "programme: BCIS/BCA (Old) ‘
+tp / Course: Digital System pieces i
+Time : Shrs.*
+
+Candidates are required to gi i i
+give their answers in their ow /Oras As.
+i ipeticable. own words as far
+The figures in the margin indicate full marks.
+Attempt all the questions.
+
+1..a) What is a BCD? Convert the following as indicated.
+i, (1011110)2 = (?)cray Code
+ii. | Subtract (101011): from (1101010). by using 1’s and 2’ s
+complement methods
+b) a Express the decimal number 255 in (a) binary; (b) octal; (c)
+hexadecimal; (d) binary-coded decimal (BCD).
+2. a) Prove that sum of all the min-terms of three variables (x,y,z) is equal
+to 1 using Boolean algebra methods.
+
+b) Simplify the following Boolean function in
+i. (A, B, C, D)=2(0, 3, 7, 8,9, 11) + dd( 2,10,14, 15).
+
+ii, (W,X,Y,Z)=0,1,2,8,15)
+3. a) Designa combinational logic circuit of three variables that takes even
+decimal number as an input and odd decimal number as an output.
+Also realize the circuit using NAND gates only.
+b) What is a decoder circuit? Design a 4-to-16 line decoder using four.
+
+2.-to-4 line decoder.
+Ilel adder? Design a full adder circuit.
+
+4. a) What is binary paral
+
+b) Where are shift-registers applicable? Construct
+parallel out shift register using D flip-flops.
+
+#4
+
+5, a) Explain JK flop-flop with its truth table and characteristics equation.
+What do you mean by toggling of a flip-flop? S
+
+b) Explain state reduction method with relevant example. = :
+
+6, a) What is the fundamental difference between synchronous and
+
+asynchronous circuits? Design a 3 bit
+
+synchronous counter using any
+
+four bit parallel in ,
+ey
+
+a
