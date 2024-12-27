@@ -1,0 +1,656 @@
+[
+    {
+        "1": "occasional"
+    },
+    {
+        "2": "occasional"
+    },
+    {
+        "3": "occasional"
+    },
+    {
+        "4": "occasional"
+    },
+    {
+        "5": "occasional"
+    },
+    {
+        "6": "occasional"
+    },
+    {
+        "7": "occasional"
+    },
+    {
+        "8": "occasional"
+    },
+    {
+        "9": "occasional"
+    },
+    {
+        "10": "occasional"
+    },
+    {
+        "11": "occasional"
+    },
+    {
+        "12": "occasional"
+    },
+    {
+        "13": "occasional"
+    },
+    {
+        "14": "occasional"
+    },
+    {
+        "15": "frequent"
+    },
+    {
+        "16": "frequent"
+    },
+    {
+        "17": "frequent"
+    },
+    {
+        "18": "occasional"
+    },
+    {
+        "19": "occasional"
+    },
+    {
+        "20": "occasional"
+    },
+    {
+        "21": "frequent"
+    },
+    {
+        "22": "frequent"
+    },
+    {
+        "23": "frequent"
+    },
+    {
+        "24": "frequent"
+    },
+    {
+        "25": "frequent"
+    },
+    {
+        "26": "frequent"
+    },
+    {
+        "27": "frequent"
+    },
+    {
+        "28": "occasional"
+    },
+    {
+        "29": "occasional"
+    },
+    {
+        "30": "occasional"
+    },
+    {
+        "31": "occasional"
+    },
+    {
+        "32": "yearly"
+    },
+    {
+        "33": "frequent"
+    },
+    {
+        "34": "occasional"
+    },
+    {
+        "35": "occasional"
+    },
+    {
+        "36": "occasional"
+    },
+    {
+        "37": "occasional"
+    },
+    {
+        "38": "occasional"
+    },
+    {
+        "39": "occasional"
+    },
+    {
+        "40": "occasional"
+    },
+    {
+        "41": "occasional"
+    },
+    {
+        "42": "occasional"
+    },
+    {
+        "43": "occasional"
+    },
+    {
+        "44": "occasional"
+    },
+    {
+        "45": "occasional"
+    },
+    {
+        "46": "occasional"
+    },
+    {
+        "47": "occasional"
+    },
+    {
+        "48": "occasional"
+    },
+    {
+        "49": "frequent"
+    },
+    {
+        "50": "frequent"
+    },
+    {
+        "51": "frequent"
+    },
+    {
+        "52": "occasional"
+    },
+    {
+        "53": "occasional"
+    },
+    {
+        "54": "occasional"
+    },
+    {
+        "55": "frequent"
+    },
+    {
+        "56": "frequent"
+    },
+    {
+        "57": "frequent"
+    },
+    {
+        "58": "frequent"
+    },
+    {
+        "59": "frequent"
+    },
+    {
+        "60": "frequent"
+    },
+    {
+        "61": "frequent"
+    },
+    {
+        "62": "occasional"
+    },
+    {
+        "63": "frequent"
+    },
+    {
+        "64": "occasional"
+    },
+    {
+        "65": "occasional"
+    },
+    {
+        "66": "occasional"
+    },
+    {
+        "67": "frequent"
+    },
+    {
+        "68": "occasional"
+    },
+    {
+        "69": "frequent"
+    },
+    {
+        "70": "occasional"
+    },
+    {
+        "71": "occasional"
+    },
+    {
+        "72": "occasional"
+    },
+    {
+        "73": "occasional"
+    },
+    {
+        "74": "occasional"
+    },
+    {
+        "75": "occasional"
+    },
+    {
+        "76": "occasional"
+    },
+    {
+        "77": "occasional"
+    },
+    {
+        "78": "occasional"
+    },
+    {
+        "79": "occasional"
+    },
+    {
+        "80": "occasional"
+    },
+    {
+        "81": "yearly"
+    },
+    {
+        "82": "occasional"
+    },
+    {
+        "83": "occasional"
+    },
+    {
+        "84": "occasional"
+    },
+    {
+        "85": "occasional"
+    },
+    {
+        "86": "occasional"
+    },
+    {
+        "87": "occasional"
+    },
+    {
+        "88": "frequent"
+    },
+    {
+        "89": "occasional"
+    },
+    {
+        "90": "occasional"
+    },
+    {
+        "91": "yearly"
+    },
+    {
+        "92": "occasional"
+    },
+    {
+        "93": "occasional"
+    },
+    {
+        "94": "occasional"
+    },
+    {
+        "95": "occasional"
+    },
+    {
+        "96": "frequent"
+    },
+    {
+        "97": "occasional"
+    },
+    {
+        "98": "occasional"
+    },
+    {
+        "99": "occasional"
+    },
+    {
+        "100": "occasional"
+    },
+    {
+        "101": "occasional"
+    },
+    {
+        "102": "occasional"
+    },
+    {
+        "103": "occasional"
+    },
+    {
+        "104": "occasional"
+    },
+    {
+        "105": "occasional"
+    },
+    {
+        "106": "frequent"
+    },
+    {
+        "107": "frequent"
+    },
+    {
+        "108": "frequent"
+    },
+    {
+        "109": "occasional"
+    },
+    {
+        "110": "occasional"
+    },
+    {
+        "111": "occasional"
+    },
+    {
+        "112": "occasional"
+    },
+    {
+        "113": "frequent"
+    },
+    {
+        "114": "occasional"
+    },
+    {
+        "115": "occasional"
+    },
+    {
+        "116": "yearly"
+    },
+    {
+        "117": "frequent"
+    },
+    {
+        "118": "occasional"
+    },
+    {
+        "119": "occasional"
+    },
+    {
+        "120": "occasional"
+    },
+    {
+        "121": "frequent"
+    },
+    {
+        "122": "frequent"
+    },
+    {
+        "123": "yearly"
+    },
+    {
+        "124": "frequent"
+    },
+    {
+        "125": "frequent"
+    },
+    {
+        "126": "occasional"
+    },
+    {
+        "127": "occasional"
+    },
+    {
+        "128": "occasional"
+    },
+    {
+        "129": "occasional"
+    },
+    {
+        "130": "frequent"
+    },
+    {
+        "131": "occasional"
+    },
+    {
+        "132": "occasional"
+    },
+    {
+        "133": "occasional"
+    },
+    {
+        "134": "occasional"
+    },
+    {
+        "135": "occasional"
+    },
+    {
+        "136": "occasional"
+    },
+    {
+        "137": "occasional"
+    },
+    {
+        "138": "frequent"
+    },
+    {
+        "139": "occasional"
+    },
+    {
+        "140": "occasional"
+    },
+    {
+        "141": "occasional"
+    },
+    {
+        "142": "occasional"
+    },
+    {
+        "143": "occasional"
+    },
+    {
+        "144": "occasional"
+    },
+    {
+        "145": "occasional"
+    },
+    {
+        "146": "occasional"
+    },
+    {
+        "147": "occasional"
+    },
+    {
+        "148": "occasional"
+    },
+    {
+        "149": "occasional"
+    },
+    {
+        "150": "frequent"
+    },
+    {
+        "151": "occasional"
+    },
+    {
+        "152": "occasional"
+    },
+    {
+        "153": "occasional"
+    },
+    {
+        "154": "frequent"
+    },
+    {
+        "155": "occasional"
+    },
+    {
+        "156": "occasional"
+    },
+    {
+        "157": "occasional"
+    },
+    {
+        "158": "frequent"
+    },
+    {
+        "159": "occasional"
+    },
+    {
+        "160": "frequent"
+    },
+    {
+        "161": "frequent"
+    },
+    {
+        "162": "yearly"
+    },
+    {
+        "163": "frequent"
+    },
+    {
+        "164": "occasional"
+    },
+    {
+        "165": "occasional"
+    },
+    {
+        "166": "occasional"
+    },
+    {
+        "167": "occasional"
+    },
+    {
+        "168": "occasional"
+    },
+    {
+        "169": "occasional"
+    },
+    {
+        "170": "occasional"
+    },
+    {
+        "171": "frequent"
+    },
+    {
+        "172": "occasional"
+    },
+    {
+        "173": "occasional"
+    },
+    {
+        "174": "occasional"
+    },
+    {
+        "175": "occasional"
+    },
+    {
+        "176": "occasional"
+    },
+    {
+        "177": "occasional"
+    },
+    {
+        "178": "occasional"
+    },
+    {
+        "179": "frequent"
+    },
+    {
+        "180": "frequent"
+    },
+    {
+        "181": "frequent"
+    },
+    {
+        "182": "frequent"
+    },
+    {
+        "183": "occasional"
+    },
+    {
+        "184": "occasional"
+    },
+    {
+        "185": "occasional"
+    },
+    {
+        "186": "occasional"
+    },
+    {
+        "187": "occasional"
+    },
+    {
+        "188": "frequent"
+    },
+    {
+        "189": "occasional"
+    },
+    {
+        "190": "occasional"
+    },
+    {
+        "191": "occasional"
+    },
+    {
+        "192": "occasional"
+    },
+    {
+        "193": "occasional"
+    },
+    {
+        "194": "occasional"
+    },
+    {
+        "195": "occasional"
+    },
+    {
+        "196": "occasional"
+    },
+    {
+        "197": "occasional"
+    },
+    {
+        "198": "occasional"
+    },
+    {
+        "199": "occasional"
+    },
+    {
+        "200": "occasional"
+    },
+    {
+        "201": "frequent"
+    },
+    {
+        "202": "occasional"
+    },
+    {
+        "203": "occasional"
+    },
+    {
+        "204": "occasional"
+    },
+    {
+        "205": "occasional"
+    },
+    {
+        "206": "frequent"
+    },
+    {
+        "207": "frequent"
+    },
+    {
+        "208": "frequent"
+    },
+    {
+        "209": "frequent"
+    },
+    {
+        "210": "frequent"
+    },
+    {
+        "211": "occasional"
+    },
+    {
+        "212": "occasional"
+    },
+    {
+        "213": "occasional"
+    },
+    {
+        "214": "occasional"
+    },
+    {
+        "215": "frequent"
+    },
+    {
+        "216": "frequent"
+    },
+    {
+        "217": "occasional"
+    },
+    {
+        "218": "occasional"
+    }
+]
