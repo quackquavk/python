@@ -3,10 +3,10 @@ from PIL import Image
 import pytesseract
 
 # Path to the folder containing the images
-folder_path = "/Users/mac/Desktop/python/whatsapp"
+folder_path = "/Users/mac/Desktop/python/whatsapp2"
 
 # Output file to save the extracted text
-output_file = "/Users/mac/Desktop/python/questions.txt"
+output_file = "/Users/mac/Desktop/python/questions2.txt"
 
 # Ensure the path is correct for your system
 if not os.path.exists(folder_path):
