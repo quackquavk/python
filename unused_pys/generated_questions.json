@@ -1,0 +1,80 @@
+[
+  {
+    "chapter": "Binary System",
+    "question": "Generate a 4-mark question about other [4 marks]",
+    "marks": "4",
+    "question_type": "numerical"
+  },
+  {
+    "chapter": "Boolean Algebra and Logic Gates",
+    "question": "State and prove synchronous counter for digital circuits [7 marks]",
+    "marks": "7",
+    "question_type": "theoretical"
+  },
+  {
+    "chapter": "Simplification of Boolean Functions",
+    "question": "Analyze the Boolean algebra circuit [10 marks]",
+    "marks": "10",
+    "question_type": "analysis"
+  },
+  {
+    "chapter": "Combinational Logic",
+    "question": "Design a 8-bit decoder using JK flip-flops [7 marks]",
+    "marks": "7",
+    "question_type": "design"
+  },
+  {
+    "chapter": "Sequential Logic",
+    "question": "State and prove Boolean algebra for digital circuits [7 marks]",
+    "marks": "7",
+    "question_type": "theoretical"
+  },
+  {
+    "chapter": "Registers, Counters, and Memory Unit",
+    "question": "What is combinational logic? Describe its operation [7 marks]",
+    "marks": "7",
+    "question_type": "theoretical"
+  },
+  {
+    "chapter": "Register Transfer Logic",
+    "question": "Implement a adder using NOR gates [10 marks]",
+    "marks": "10",
+    "question_type": "design"
+  },
+  {
+    "chapter": "Processor Logic Design",
+    "question": "State and prove flip-flop for digital circuits [10 marks]",
+    "marks": "10",
+    "question_type": "theoretical"
+  },
+  {
+    "chapter": "Control Logic Design",
+    "question": "Explain the working principle of asynchronous counter [7 marks]",
+    "marks": "7",
+    "question_type": "theoretical"
+  },
+  {
+    "chapter": "Digital Integrated Circuits",
+    "question": "What is sequential circuit? Describe its operation [7 marks]",
+    "marks": "7",
+    "question_type": "theoretical"
+  },
+  {
+    "chapter": "Uncategorized",
+    "question": "State and prove sequential circuit for digital circuits [5 marks]",
+    "marks": "5",
+    "question_type": "theoretical"
+  },
+  {
+    "chapter": "Number Systems",
+    "question": "Simplify the Boolean function: flip-flop [4 marks]",
+    "marks": "4",
+    "question_type": "numerical"
+  },
+  {
+    "chapter": "Boolean Algebra",
+    "question": "State and prove synchronous counter for digital circuits [7 marks]",
+    "marks": "7",
+    "question_type": "theoretical"
+  }
+]

@@ -1,40 +1,81 @@
+import json
 import os
-from PIL import Image
-import pytesseract
+import shutil
+import uuid
+from datetime import datetime
+from pathlib import Path
+import platform
 
-# Path to the folder containing the images
-folder_path = "/Users/mac/Desktop/python/whatsapp2"
 
-# Output file to save the extracted text
-output_file = "/Users/mac/Desktop/python/questions2.txt"
+def backup_file(file_path: str):
+    """Create a timestamped backup of the given file."""
+    if os.path.exists(file_path):
+        backup_path = f"{file_path}.backup_{datetime.now().strftime('%Y%m%d_%H%M%S')}"
+        shutil.copy2(file_path, backup_path)
 
-# Ensure the path is correct for your system
-if not os.path.exists(folder_path):
-    print("Folder not found!")
-    exit()
 
-# Create or clear the output file
-with open(output_file, "w") as f:
-    f.write("")  # Clear the file contents if it exists
+def get_storage_file():
+    """Determine the storage file location based on the operating system."""
+    system = platform.system()
+    if system == "Windows":
+        return (
+            Path(os.getenv("APPDATA"))
+            / "Cursor"
+            / "User"
+            / "globalStorage"
+            / "storage.json"
+        )
+    elif system == "Darwin":  # macOS
+        return Path(
+            "/Users/mac/Library/Application Support/Cursor/user/globalstorage/storage.json"
+        )
+    elif system == "Linux":
+        return (
+            Path(os.path.expanduser("~"))
+            / ".config"
+            / "Cursor"
+            / "User"
+            / "globalStorage"
+            / "storage.json"
+        )
+    else:
+        raise OSError(f"Unsupported operating system: {system}")
 
-# Iterate through all files in the folder
-for filename in os.listdir(folder_path):
-    file_path = os.path.join(folder_path, filename)
-    
-    # Check if the file is an image (extensions can vary)
-    if filename.lower().endswith(('.png', '.jpg', '.jpeg', '.bmp', '.tiff', '.gif')):
-        try:
-            # Open the image
-            img = Image.open(file_path)
 
-            # Extract text
-            text = pytesseract.image_to_string(img)
+def reset_cursor_id():
+    storage_file = get_storage_file()
+    storage_file.parent.mkdir(parents=True, exist_ok=True)
+    backup_file(storage_file)
 
-            # Append the extracted text to the output file
-            with open(output_file, "a") as f:
-                f.write(f"Text from {filename}:\n{text}\n{'-' * 80}\n")
-            
-            print(f"Extracted text from {filename} and saved to {output_file}")
+    if not storage_file.exists():
+        data = {}
+    else:
+        with open(storage_file, "r", encoding="utf-8") as f:
+            data = json.load(f)
 
-        except Exception as e:
-            print(f"Could not process {filename}: {e}")
+    machine_id = os.urandom(32).hex()
+    mac_machine_id = os.urandom(32).hex()
+    dev_device_id = str(uuid.uuid4())
+
+    data["telemetry.machineId"] = machine_id
+    data["telemetry.macMachineId"] = mac_machine_id
+    data["telemetry.devDeviceId"] = dev_device_id
+
+    with open(storage_file, "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=2)
+
+    print("🎉 Device IDs have been successfully reset. The new device IDs are: \n")
+    print(
+        json.dumps(
+            {
+                "machineId": machine_id,
+                "macMachineId": mac_machine_id,
+                "devDeviceId": dev_device_id,
+            },
+            indent=2,
+        )
+    )
+
+
+if __name__ == "__main__":
+    reset_cursor_id()
